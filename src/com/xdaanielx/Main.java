@@ -16,4 +16,10 @@ public class Main {
 
 
     }
+
+    public static double dodaj(double a, double b){
+        //kod kamila
+        return a+b;
+
+    }
 }
